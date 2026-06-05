@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (_req, res) => {
-  res.json({
+  res.status(200).json({
     message: 'FutbolStats Pro API',
     docs: { health: '/api/health', standings: '/api/standings' },
   });
