@@ -32,6 +32,11 @@ API: http://localhost:3000/api/standings
 ```bash
 npm test
 ```
+Autores 
+Vanya Catalina Portilla Sanchez
+Andres Alirio Burbano Solarte 
+Franklin Sneider Cordoba De La Cruz 
+
 
 ## Despliegue en Render
 
